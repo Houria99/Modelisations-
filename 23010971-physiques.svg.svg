@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Physique.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.66903058"
+     inkscape:cx="397.5902"
+     inkscape:cy="272.78275"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="427.4842"
+       y="131.5336"
+       width="171.8905"
+       height="100.1449"
+       id="rect15" />
+    <rect
+       x="452.8941"
+       y="143.4912"
+       width="140.5018"
+       height="95.660799"
+       id="rect14" />
+    <rect
+       x="155.4488"
+       y="130.0389"
+       width="174.8799"
+       height="119.576"
+       id="rect11" />
+    <rect
+       x="215.2368"
+       y="328.834"
+       width="387.1273"
+       height="59.788"
+       id="rect9" />
+    <rect
+       x="150.9647"
+       y="443.9259"
+       width="455.8835"
+       height="53.8092"
+       id="rect7" />
+    <rect
+       x="194.311"
+       y="147.9753"
+       width="360.22269"
+       height="100.1449"
+       id="rect8" />
+    <linearGradient
+       id="swatch6"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+    </linearGradient>
+    <marker
+       orient="auto-start-reverse"
+       refY="0"
+       refX="0"
+       id="ThreeDots"
+       inkscape:stockid="Ellipsis"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.5)"
+         id="g33">
+        <circle
+           cx="4"
+           cy="0"
+           r="1"
+           style="fill:context-stroke;stroke:context-stroke"
+           id="circle31" />
+        <circle
+           cx="8"
+           cy="0"
+           r="1"
+           style="fill:context-stroke;stroke:context-stroke"
+           id="circle32" />
+        <circle
+           cx="12"
+           cy="0"
+           r="1"
+           style="fill:context-stroke;stroke:context-stroke"
+           id="circle33" />
+      </g>
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch6"
+       id="linearGradient6"
+       x1="30.84687"
+       y1="51.609188"
+       x2="102.03195"
+       y2="51.609188"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.051044,0,0,2.5913174,-46.950063,-59.299954)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch6"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59693313,0,0,0.89115438,19.808481,3.6145167)"
+       x1="30.84687"
+       y1="51.609188"
+       x2="102.03195"
+       y2="51.609188" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch6"
+       id="linearGradient14"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7809765,0,0,1.8504586,-27.096809,-30.863701)"
+       x1="30.84687"
+       y1="51.609188"
+       x2="102.03195"
+       y2="51.609188" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch6"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.59693313,0,0,0.89115438,91.784513,3.219044)"
+       x1="30.84687"
+       y1="51.609188"
+       x2="102.03195"
+       y2="51.609188" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect1"
+       width="60.90279"
+       height="42.315571"
+       x="49.038616"
+       y="59.320904" />
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect2"
+       width="98.868172"
+       height="32.428761"
+       x="12.655127"
+       y="158.58455" />
+    <rect
+       style="fill:none;stroke-width:0.264583;marker-start:url(#ThreeDots)"
+       id="rect3"
+       width="92.936081"
+       height="58.529957"
+       x="28.474035"
+       y="53.388817" />
+    <rect
+       style="fill:none;stroke-width:0.264583"
+       id="rect5"
+       width="45.479362"
+       height="91.749664"
+       x="45.083889"
+       y="43.897469" />
+    <rect
+       style="fill:url(#linearGradient6);fill-opacity:1;stroke:#000000;stroke-width:1.76364;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect6"
+       width="177.35954"
+       height="125.9481"
+       x="16.318226"
+       y="10.386138" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8"
+       style="white-space:pre;shape-inside:url(#rect8);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.89134;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    <rect
+       style="fill:url(#linearGradient14);fill-opacity:1;stroke:#000000;stroke-width:1.38877;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect12"
+       width="154.00606"
+       height="89.939476"
+       x="27.840719"
+       y="18.899107" />
+    <rect
+       style="fill:url(#linearGradient13);fill-opacity:1;stroke:#000000;stroke-width:0.557957;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect13"
+       width="51.618488"
+       height="43.313564"
+       x="38.221531"
+       y="27.579569" />
+    <rect
+       style="fill:url(#linearGradient4);fill-opacity:1;stroke:#000000;stroke-width:0.557957;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect4"
+       width="51.618488"
+       height="43.313564"
+       x="110.19756"
+       y="27.184095" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect7);fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke"><tspan
+         x="309.61206"
+         y="470.34788"
+         id="tspan1">Ordinateur </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7"
+       style="fill:#ba2d2d;stroke-width:2.89133858;paint-order:markers fill stroke;stroke:#000000;-inkscape-font-specification:Arial;font-family:Arial;font-size:29.33333333px;text-align:center;fill-opacity:0.56875002;white-space:pre;shape-inside:url(#rect9)" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:0.765;paint-order:markers fill stroke"
+       x="98.868179"
+       y="99.659119"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.765"
+         x="98.868179"
+         y="99.659119">Site web</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.1864181,3.5592543)"
+       id="text11"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect11);fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke"><tspan
+         x="189.07037"
+         y="156.46116"
+         id="tspan2">Base de </tspan><tspan
+         x="193.94732"
+         y="193.12779"
+         id="tspan3">donnee</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.39547272,9.4913451)"
+       id="text15"
+       style="font-size:29.3333px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect15);fill:#ba2d2d;fill-opacity:0.56875;stroke:#000000;stroke-width:2.89134;paint-order:markers fill stroke"><tspan
+         x="441.16349"
+         y="157.9553"
+         id="tspan4">WordPress</tspan></text>
+  </g>
+</svg>
